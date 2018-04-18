@@ -4,6 +4,8 @@
 # Download
 <a href="https://github.com/coreybutler/nvm-windows/releases">Node Version Manager (nvm) for Windows</a>
 
+
+<code>nvm install 8.11.1</code><br/>
 <code>nvm use 8.11.1</code><br/>
 <code>npm install gulp-cli -g</code><br/>
 <code>npm i -g yarn</code>
