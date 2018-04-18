@@ -1,12 +1,18 @@
 # Yarn-Browserify-Gulp-Sass-Pug
 
-# Run
+
+# Download
+<a href="https://github.com/coreybutler/nvm-windows/releases">Node Version Manager (nvm) for Windows</a>
+
+<code>nvm use 8.11.1</code><br/>
+<code>npm install gulp-cli -g</code><br/>
+<code>npm i -g yarn</code>
+
+# Run Progect
  
-<code>npm i -g npm-check-updates</code><br/>
-<br/>is folder<br/>
-<code>npm-check-updates -u</code><br/>
-<code>npm install</code> <br/>
-<code>gulp</code><br/>
+ <code>yarn</code><br/>
+  <code>gulp</code><br/>
+ 
 
 # Adding a dependency
 
@@ -23,3 +29,9 @@
 # Removing a dependency
 
 <code>yarn remove [package]</code>
+
+#  Updates npm
+
+<code>npm i -g npm-check-updates</code><br/>
+is folder<br/>
+<code>npm-check-updates -u</code><br/>
