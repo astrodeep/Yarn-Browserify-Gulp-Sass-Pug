@@ -1,0 +1,6 @@
+ jQuery('.owl-carousel').owlCarousel();
+
+
+
+
+
